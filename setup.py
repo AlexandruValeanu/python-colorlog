@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(
-    name='colorlog',
+    name='gr-colorlog',
     version='4.2.1',
 
     description='Log formatting with colors!',
